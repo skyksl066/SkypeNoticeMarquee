@@ -1,5 +1,4 @@
 # .NET-Console-SkypeNoticeMarquee
-Skype for business with Lync kit
 This project is used to control skype notice by console app.
 
 ## Environment
