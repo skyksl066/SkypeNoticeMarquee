@@ -8,6 +8,7 @@ This project is used to control skype notice by console app.
 - Microsoft Lync 2013 SDK x64
 - .NET Framework 4.7.2
 - Windows 10 x64
+- Visual Studio 2019
 
 ## Installation
 
